@@ -17,7 +17,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h1 class="text-center">안녕하세요, 소셜 곱셈입니다!!!!!!!!!!!!</h1>
+				<h1 class="text-center">안녕하세요, 소셜 곱셈입니다!!!풀어보자~</h1>
 			</div>
 		</div>
 		<div class="row">
