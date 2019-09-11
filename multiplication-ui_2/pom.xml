@@ -154,10 +154,8 @@
                     <mainClass>org.test.int1.Main</mainClass>
                 </configuration>
             </plugin>
-        </plugins>
-        
+        </plugins>        
         <finalName>multiplication-ui</finalName>
-        
     </build>
 
 </project>
